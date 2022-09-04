@@ -3,7 +3,7 @@
 Генерация текста в стиле популярных исполнителей (Oxxxymiron, Pyrokinesis, Гражданская Оборона).
 ---
 
-Для корректной работы необходимо скачать веса модели [по ссылке](https://drive.google.com/file/d/17n_5Fk0x86vRZo-WRA6jXpk5bQVXeSO-/view?usp=sharing) и положить в папку models.
+Для корректной работы необходимо скачать веса модели [по ссылке](https://drive.google.com/file/d/17n_5Fk0x86vRZo-WRA6jXpk5bQVXeSO-/view?usp=sharing), создать папку **models** и положить туда веса.
 
 ---
 # Запуск на Streamlit
